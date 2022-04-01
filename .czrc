@@ -1,0 +1,109 @@
+{
+    "path": "cz-emoji",
+    "config": {
+        "cz-emoji": {
+            "conventional": true,
+            "skipQuestions": [
+                "issues"
+            ],
+            "symbol": false,
+            "scopes": [
+                "style",
+                "lint",
+                "review",
+                "uiux",
+                "deps",
+                "build",
+                "release",
+                "flags",
+                "logs",
+                "db",
+                "security",
+                "perf",
+                "typos",
+                "literals",
+                "analytics",
+                "seo",
+                "linux",
+                "windows",
+                "osx",
+                "android",
+                "ios"
+            ],
+            "types": [
+                {
+                    "emoji": "🚧",
+                    "code": ":construction:",
+                    "description": "Work in progress.",
+                    "name": "wip"
+                },
+                {
+                    "emoji": "🌟",
+                    "code": ":star2:",
+                    "description": "Introducing new features.",
+                    "name": "feat"
+                },
+                {
+                    "emoji": "🐛",
+                    "code": ":bug:",
+                    "description": "Fixing a bug.",
+                    "name": "fix"
+                },
+                {
+                    "emoji": "🔧",
+                    "code": ":wrench:",
+                    "description": "Changing configuration files.",
+                    "name": "config"
+                },
+                {
+                    "emoji": "🔥",
+                    "code": ":fire:",
+                    "description": "Refactoring.",
+                    "name": "refactor"
+                },
+                {
+                    "emoji": "⏪️",
+                    "code": ":rewind:",
+                    "description": "Reverting changes.",
+                    "name": "revert"
+                },
+                {
+                    "emoji": "🔩",
+                    "code": ":nut_and_bolt:",
+                    "description": "Doing a chore.",
+                    "name": "chore"
+                },
+                {
+                    "emoji": "👷",
+                    "code": ":construction_worker:",
+                    "description": "Changing CI/build system.",
+                    "name": "ci"
+                },
+                {
+                    "emoji": "🍱",
+                    "code": ":bento:",
+                    "description": "Adding or updating assets.",
+                    "name": "assets"
+                },
+                {
+                    "emoji": "✅",
+                    "code": ":white_check_mark:",
+                    "description": "Adding tests.",
+                    "name": "test"
+                },
+                {
+                    "emoji": "📝",
+                    "code": ":pencil:",
+                    "description": "Writing docs.",
+                    "name": "docs"
+                },
+                {
+                    "emoji": "🎉",
+                    "code": ":tada:",
+                    "description": "Initial commit.",
+                    "name": "init"
+                }
+            ]
+        }
+    }
+}
